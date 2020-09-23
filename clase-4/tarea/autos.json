@@ -1,0 +1,72 @@
+{
+  "Autos": [
+    {
+      "Marca": "Mercedes",
+      "Modelo": "S500",
+      "Anio": 2018,
+      "Seguro": 3000000,
+      "Valor": 150000000
+    },
+    {
+      "Marca": "Audi",
+      "Modelo": "A3",
+      "Anio": 2020,
+      "Seguro": 1600000,
+      "Valor": 80000000
+    },
+    {
+      "Marca": "Jeep",
+      "Modelo": "Rubicon",
+      "Anio": 2021,
+      "Seguro": 4400000,
+      "Valor": 220000000
+    },
+    {
+      "Marca": "Nissan",
+      "Modelo": "Pathfinder",
+      "Anio": 2009,
+      "Seguro": 2250000,
+      "Valor": 75000000
+    },
+    {
+      "Marca": "Renault",
+      "Modelo": "Twingo",
+      "Anio": 2005,
+      "Seguro": 420000,
+      "Valor": 14000000
+    },
+    {
+      "Marca": "Renault",
+      "Modelo": "Clio",
+      "Anio": 2008,
+      "Seguro": 600000,
+      "Valor": 20000000
+    },
+    {
+      "Marca": "Nissan",
+      "Modelo": "Kashkai",
+      "Anio": 2019,
+      "Seguro": 1400000,
+      "Valor": 70000000
+    },
+    {
+      "Marca": "Wokswagen",
+      "Modelo": "Escarabajo",
+      "Anio": 1965,
+      "Seguro": 3750000,
+      "Valor": 75000000
+    },
+    {
+      "Marca": "Chevrolet",
+      "Modelo": "Chevy",
+      "Anio": 1955,
+      "Seguro": 4750000,
+      "Valor": 95000000
+    }
+  ],
+  "Seguro": [
+    {
+      "Total": 22170000
+    }
+  ]
+}

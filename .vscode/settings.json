@@ -1,0 +1,9 @@
+{
+    "javascript.validate.enable": true,
+    "eslint.enable": true,
+    "standard.enable": true,
+    "standard.autoFixOnSave": false,
+    "editor.fontSize": 12,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": true
+  }

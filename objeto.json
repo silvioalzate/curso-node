@@ -1,0 +1,9 @@
+{
+  "nombre": "Cerveza",
+  "precio": 6000,
+  "marcas": [
+    "Aguila Light",
+    "Andina",
+    "Club Colombia"
+  ]
+}
